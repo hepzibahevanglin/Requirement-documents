@@ -1,0 +1,1888 @@
+ Shopify
+Blogs
+
+Your online store comes with a built-in blogging engine, blogging is an excellent way to build your audience and generate more traffic and sales for your business, setting up a block can help you make an around your products and your brand.
+
+Note: Make it easier for users to find and engage with your posts.
+
+Add a blog to your online store
+
+You can add blogs to your online store, and then post to the blogs to update your customers about your business or products Blog posts drive traffic to your site in several different ways:
+
+●	Improve your store's SEO.
+●	Let you tell stories that convert visitors into customers.
+●	Increase customer engagement.
+Manage your blog post
+Create your first blog post
+
+If you haven't created a blog post yet, then you can create your new blog with a custom name, to perform these steps
+
+Click-> Create a blog post button
+ 
+
+1. Title
+Title field, enter a title for your blog post
+
+ 
+
+2. Content Formatting
+Add/update the blog content using text formatting tools,
+Content field, This field uses the rich text editor, so you can format your post content. You can also add an image, embed a video or other media, or insert a link.
+
+ 
+
+ 
+
+●	Formatting
+●	Bold
+●	Italic
+●	Underline
+●	Bulleted list
+●	Numbered list
+●	Outdent
+●	Indent
+●	Alignment
+➔	    Left align
+➔	    Right align
+➔	    Centre align
+●	Color (text and background)
+●	Insert Link
+●	Insert table
+●	Insert image
+●	Insert video
+●	Clear formatting
+●	Show HTML code
+
+2. a) Insert Link
+To insert a link in the text,
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+2. b) Insert table
+To insert a table in the content,
+
+ 
+
+To insert a row below or after,
+ 
+
+
+To insert a column below or after,
+
+ 
+
+
+To delete a row,
+
+ 
+
+
+
+
+To delete table,
+ 
+
+Finally created an insert table 
+
+ 
+
+After clicking the save button insert table displays on the storefront,
+
+ 
+
+2. c) Insert image
+Insert image:
+
+To insert images,
+ 
+
+Upload images,
+ 
+
+Image Limit Up to 10 images can be displayed in an uploaded image, 
+uploaded image size in shopify can't exceed either of the following limits:
+
+●	20 megapixels
+●	20 megabytes
+
+For ex:
+
+To find your image's megapixels, you can use the following equation: (pixel width x pixel height)/1,000,000. For example, an image with a resolution of 4900x6930 would be 33.9 megapixels based on the equation: (4900x6930)/1,000,000 = 33.9 MP.
+
+
+
+To upload images, add image alt text
+
+ 
+
+
+
+Including the size of the product image
+
+ 
+
+
+
+
+
+The product image is also uploaded in this section,
+
+
+ 
+
+Product list page display,
+
+ 
+
+
+
+
+
+The product URL uploaded in this section,
+
+ 
+
+click the image and Edit, to give some spacing in the left, right, top, and bottom alignment, then click the “Edit image” button, and changes will be updated,
+
+Remove image you have to click the “remove image” button,
+
+
+ 
+
+
+The image displayed on the storefront,
+
+ 
+2.d) Insert video
+
+To insert video, 
+
+ 
+
+Max file size,
+If you're uploading video files, then make sure the requirements:
+
+●	Video length: Up to 10 minutes
+●	Video size: Up to 1 GB
+●	Video resolution: Up to 4K (4096 x 2160 px)
+●	Video file type: .mp4 or .mov
+
+Note: Insert a video by pasting the embed snippet in the box below.
+
+Upload video, on youtube, click the share icon
+ 
+
+
+Using share icon, click the embed icon button 
+
+ 
+
+ 
+
+
+
+
+
+Insert a video by pasting the embed snippet in the insert video box below,
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+The video displayed on the storefront,
+
+
+ 
+
+3. Add a featured image
+
+
+Display an image on the blog landing page. Click Upload image in the Featured Image section, and then select an image to upload.
+
+ 
+
+
+
+Upload the featured image, you can update and edit the image in the box,
+
+ 
+
+Update action is nothing but changing the image.
+
+
+
+Edit image, you can add the image alt text in this text field,
+
+ 
+
+
+
+
+The featured image is displayed on the storefront,
+
+ 
+
+4. Excerpt
+
+You can display excerpts from a blog post on the blog landing page. you might be able to include images, text formatting, and links in your excerpt.
+ 
+
+ 
+
+
+Excerpt summary details display on the storefront,
+ 
+
+5.Search engine listing preview
+
+
+Click edit SEO, you can edit the page title, description and page URL,
+
+ 
+
+ 
+
+6. Visibility
+
+
+Blog posts are hidden by default,
+
+ 
+
+
+you're ready to publish the post, then select Visible in the Visibility section, or set a specific publishing date for the post.
+
+ 
+
+
+7. Organization
+In the Organization section, 
+
+From this section, the author, blogs, and tags
+
+ 7. a) Author
+author selects the name of the person writing the post. Only the names of the store owner and staff appear in the drop-down menu.
+
+ 
+
+Author name displays on the blog post List page,
+
+ 
+7. b) Blog
+
+from the Blog drop-down menu, Your online store has a default blog called “News”, You can keep this blog, or you can create your own with a custom name. 
+
+select Create a new blog and give the new blog title name
+
+ 
+
+
+ 
+
+After saving the blog post, the given Blog title will be displayed in the “Manage blogs”
+
+ 
+
+
+displays on the storefront,
+ 
+
+7. C) Add tags 
+
+Note: has a hidden field added to it by the trigger. This field, Product ID, identifies the product to add tags.
+
+ 
+
+
+ 
+
+Click the save button, and the new blog post has been created,
+
+ 
+
+
+ 
+
+Preview blog
+
+Click on the top right view icon, to view the new post displayed in the storefront,
+
+ 
+
+View storefront,
+
+ 
+
+Blog Post list 
+
+On the Blog posts list page, you can change the actions using the action drop-down field
+
+1. Search
+
+                   Search using blog post title name,
+
+ 
+2. Filters
+
+Click the more filters option,
+
+ 
+
+
+
+which Shows the filters,
+
+ 
+
+Visibility, tagged with, blog, and author
+
+2. a) visibility
+Choosing visibility values from the filters visible or hidden, displayed on the  screen depends on whether the filters are visible or hidden level
+
+ 
+
+
+ 
+
+2. b) Tagged
+              Give tagged values from the blog post displayed on the screen depends on the tagged blog post already provided by the blogs
+
+ 
+
+ 
+
+2. c) Blog
+                    Choosing blog values from the filters displayed on the screen depends on the blog title the blog post names are visible on the list
+
+
+    
+
+ 
+ 2. d) Author
+
+               Choosing the author name of the person writing the post. Only displays the names of the store owner and staff appear in the search menu.
+
+
+ 
+
+ 
+
+
+3. Sort
+
+             Sort filters based on displayed sort values,
+      
+ 
+4. Actions
+
+ 
+
+4. a) Publish selected blog posts 
+
+Click action, select Publish selected blog posts, and make them visible on your  store.
+
+Note: You can use a bulk action to publish multiple blog posts at once and make them visible on your online store.
+
+ 
+
+4.b) unpublish
+
+check the blog posts that you want to unpublish,
+
+ 
+
+You can use unpublish selected blogs and make them hidden from your online store. this doesn't delete the blog posts from the store
+
+4. c) Add tags
+
+check the blog posts that you want to add tags,
+ 
+
+ 
+
+
+You can add multiple tags in the tags field, added existing tags shown here 
+
+add new tag,click apply changes button new tag created to the blog,
+
+ 
+
+Tag added detail page 
+
+ 
+
+4.d) Remove tags
+check the blog posts that you want to remove tags,
+
+ 
+
+
+ 
+The “Today” tag removed the list
+
+
+Tag removed detail page ,
+
+ 
+
+5. Edit blog post
+
+When you have edited the blog, change the blog title, add a tag, and change the description, after you have saved, the changes will be updated.
+
+ 
+
+The blog has to be saved,
+
+ 
+6. Delete blog post
+
+        When you delete the “Today blog” blog post 
+ 
+
+
+
+The blog post has to be deleted,
+
+ 
+Manage your Blogs
+Note: You have created at least one blog post to view the “Manage Blog” section, then perform the steps to add additional blogs 
+
+Click blog post and then click manage blogs
+
+ 
+1.Blogs list
+Your online store has a default blog called “News”, You can keep this blog, or you can create your own with a custom name,
+
+ 
+
+1. a) Search
+
+            Search blog title is given in the search field,
+
+ 
+2. b) Sort
+
+ Sort your blogs sorted alphabetically (title A to ... to Z) & ( title z to…..to A) my blog title. The way that your blogs are sorted,
+
+
+ 
+    
+2.C) Delete blog
+Displays the manage blog list page, click actions you have to select and delete the blog 
+
+
+
+ 
+
+
+ 
+
+
+2. Edit Blog
+Edit a blog name
+
+ 
+
+Click back to the blog posts, 
+
+
+ 
+
+Click manage blogs,
+
+
+ 
+
+Click the name of the blog to edit,
+
+ 
+
+On the Edit blog page, enter the new name you want for your blog in the title field,
+
+ 
+
+Click the save button,
+
+ 
+
+Blog name is changed to manage blogs, and the newly created blog post (blog name)
+
+ 
+
+3. Create Additional blog
+
+ 
+
+Add a blog, give your blog a title, and then select how you want to manage comments.
+
+ 
+
+
+
+ you have created a custom template for blogs, you can select a template. In the template drop-down menu, select the template that you want to use for the blog. All of the posts in the blog will use the template.
+
+Click the save button the new blog has been created
+
+ 
+
+Once you have created it, the created blog title shown in the blog post,
+
+ 
+4. Managing comments on blog posts
+
+      Comments can provide a place for conversations about your business and products. You can allow customers to comment on your blog posts, disable comments, or allow comments pending moderation.
+
+When you create a new blog, comments are disabled by default.they will not displayed any comments,
+
+  
+
+
+
+The comment settings have three options,
+4. a) Comments are disabled:  
+
+        Visitors to your blog can't leave comments on posts,
+ 
+
+Comments are disabled, then the given comments are notified in the blog post admin page
+
+ 
+
+To display blogs on the store without comments,
+ 
+
+4. b) Comments are allowed pending moderation
+
+    Visitors to your blog can leave comments, but you will need to review the comments before they will appear on your blog.
+
+      Click Comments are allowed and then click the save button,  
+
+
+
+
+
+
+
+
+
+ 
+
+Comments are allowed, pending moderation, then the given comments are notified in the blog post admin page
+
+ 
+
+
+To display blogs on the store Comments are allowed, you have to post the comment,
+
+
+ 
+
+
+You have to post the blog comments,
+ 
+
+
+Click the post comment button, and your comments will be posted,
+
+ 
+
+Once you have viewed the customer comments, click blog post and then click manage comments
+
+ 
+
+
+Click manage comments,
+
+ 
+
+
+You have to view the customer comments on the blog post and not approved, once you have checked the box, select the comments to be approved
+
+  4. b) 1. Approve comments:
+
+ 
+
+
+Approve selected comments, and the status will be changed to approved,
+
+ 
+
+
+To display approved comments on the storefront,
+
+ 
+
+
+
+ 4. b) 2. Mark as spam comments:
+
+         Flagged comments won't be displayed on your blog, but they will appear in your admin. You can mark comments as spam manually.
+
+ 
+    
+  Marked comments as spam,
+
+ 
+
+Marked spam comments are not displayed in storefront.
+
+
+Note: If a selected comment is mistakenly marked as spam, then you can click Unmark as spam from the Actions dropdown. This will remove the flag and send a notification to Shopify to help improve the spam filters.
+
+again comments changed as unmark you have to click the actions as “unmark as spam”
+ 
+
+Click unmark the comments will be changed to approved,
+
+ 
+
+Approved comments will be displayed on the storefront
+
+4. b) 3. Delete comments
+
+You can also delete multiple comments using a bulk action
+
+ 
+
+ 
+
+ 
+
+multiple comments are deleted.
+4. c ) Comments are allowed, and are automatically published
+ 
+    Visitors to your blog can leave comments and they will appear on your blog without your review.
+
+ 
+
+Click the save button, and comments are automatically published,
+
+Comments are notified on the blog post page below,
+
+ 
+
+ 
+
+Click the post comment button, the comments are automatically published
+
+
+ 
+
+Comments published,
+ 
+
+5. Link to an external blog
+       
+           You can add a link to your online store navigation, You can set up menus and links in the Navigation area of shopify,The link can appear in your main navigation or within a menu, depending on what you choose,
+
+ 
+Click the navigation,
+
+ 
+
+It will display the menus, footer and main menu, you will display the content in header side choosing the main menu to add a blog, where you want to add the link,
+
+Click the main menu it will show like this,
+
+ 
+
+
+Click Add menu item, or choose an existing menu item to edit,
+
+ 
+
+
+
+Enter the link name, for ex, Blog, into the Name field, Paste the link to your blog in the Link field.
+
+ 
+
+Click the blogs to link add to the “Today sale”
+
+
+
+ 
+
+Click add button,
+
+ 
+
+
+
+Then added menu items listed in the menus, click the save button,
+
+ 
+
+
+Menu is added to the list of main menu items,
+
+
+ 
+
+
+Blog menu displays on the storefront,
+
+ 
+
+Click the blog, today sales blog post displays on the store,
+
+
+ 
+
+
+6. Create a new blog template (for customizing the theme)
+You can create a template to customize the layout of all of the posts in a blog. For ex, you could create a template for a blog that will feature a lot of images on posts, and the template is used for all of the posts. 
+
+For the blog post, the theme template in the default blog post,
+
+ 
+
+Click customize and create a new template for the theme,
+
+ 
+
+
+Now it will show the customized theme, click the dropdown to select the blog post,for ex: (dawn theme)
+ 
+
+
+Click blog post, create a new template,
+
+ 
+
+
+Create a template based on the default blog post, give the name in this field,
+
+ 
+
+and Give the “Blog post #1” 
+
+
+ 
+
+
+Change the page name, and display the default blog post,
+
+ 
+
+
+Then exit,the theme,in admin change the newly created template 
+
+
+ 
+
+
+
+
+ 
+
+Change the template and click the save button,
+
+ 
+
+
+
+And edit the  “Blog post #1” template in the customized section,
+
+  
+
+
+Edit the blog post template section,
+
+ 
+
+Click the featured image ,edit the featured image in this section,
+
+ 
+
+
+change medium click save button,
+
+
+ 
+
+
+
+
+Then click the title , show the selected date and author,
+
+ 
+
+
+show date and author selected options,
+
+ 
+
+ 
+Click share, change the title and add metafield options in this section,
+
+
+ 
+
+
+then add a new section click add section options,
+
+ 
+
+add a new collage multimedia collage section,
+
+ 
+
+
+Add a multimedia blog images,
+
+ 
+
+
+Then add the image banner for this section,
+
+ 
+
+add the image,click the save button,
+
+ 
+
+
+
+ 
+
+then add the link in main menu, blog posts to add the url,
+
+ 
+
+ 
+
+
+Click apply changes, and click the save button,
+
+ 
+
+
+Display storefront, click blog menu changes in the added templates,
+
+ 
+
+
+
+7. Invite customers to subscribe to your blog
+
+Shopify automatically produces an RSS feed for every blog that you create, so customers can subscribe to it and receive notifications when you publish a new post.
+
+An RSS (Really Simple Syndication) feed is an online file that contains details about every piece of content a site has published. Each time a site publishes a new piece of content, details about that content—including the full-text of the content or a summary, publication date, author, link, etc.
+
+For ex, http://store.myshopify.com/blogs/blogname.atom. Customers who want to subscribe to your blog can paste the feed URL into a feed reader.
+
+You can include your feed URL in a blog post to invite customers to subscribe to your blog,
+
+ 
+
+
+ 
+
+
+ 
+
+
+To display storefront ,
+
+ 
+
+
+Click the link redirect new window,
+
+ 
+
+
+
+
+Dukaan            
+
+Adding a blog section to your store allows you to Increase website traffic, build credibility, and improve search engine rankings.
+
+Header to the Appearance section and click on Blog,
+
+
+ 
+
+ 
+
+Add your first blog
+
+
+Click on Add blog post to add your first blog,
+
+ 
+
+
+Once clicked, you will see the below screen. Here you can add details describing your blog post,
+
+ 
+
+  1. Title
+Under Title, add a name that describes the blog. If you want to edit the link to this blog, click on the Edit button to make changes.
+
+ 
+
+
+
+Edit blog link,
+ 
+
+Click the update button, and changes here,
+
+ 
+
+Edit blog url displays on the storefront,
+
+ 
+
+2. Content formatting
+Under Content, you can add your content, including images to describe what the post is about. You can also add bullets, and links, make your content bold, and add block quotes and tables using the options available.
+
+ 
+
+●	Paragraph and headings 
+●	Bold
+●	Italic
+●	Background color
+●	Insert/edit link
+●	Insert/edit image
+●	Table
+●	Paragraph format
+●	Bullet list
+●	Numbered list
+●	Blockquote
+●	Sourcecode
+●	fullscreen
+    
+  2. a) Insert content
+   Under insert content,
+ 
+
+You have to align the headings and paragraph
+
+
+
+
+
+
+
+
+
+
+You have to change the background color,
+
+ 
+
+
+
+
+You have to edit the paragraph alignment, 
+
+ 
+
+You have to add a bullet list,
+ 
+
+Edit  the blockquote,
+
+ 
+
+To display on the blockquote,
+
+ 
+2. b) Insert link
+
+Under the content, insert link,
+
+ 
+
+
+ 
+
+
+
+2. c) Insert image
+
+under insert and upload image,
+
+ 
+
+
+
+ 
+
+Browse image,
+
+ 
+
+ 
+
+2.d) Insert table
+
+under insert table ,
+
+ 
+
+
+Edit the insert table using these icons,
+
+ 
+
+2.e) Sourcecode
+You can view the source code,
+
+
+
+
+
+Click the source code tools,
+
+ 
+
+
+View the code,
+
+ 
+
+2.f) fullscreen
+
+adjust fullscreen ,
+
+ 
+
+and View the full-screen content formatting,
+
+ 
+
+
+3 .SEO content
+
+Note: After completing the content section, you will see the Dukaan-SEO section. In case you are not able to see it, you need to install the All-in-One SEO plugin on your store. 
+
+Go to the store plugin and install the app,
+ 
+
+
+ 
+
+You have to install the SEO plugin, add a blog post page in SEO content,
+
+ 
+
+
+You have to add a title and meta description,include image in the seo section,
+
+ 
+
+and Make sure quick and clear description on the google preview seo on the under seo content
+
+ 
+
+
+
+4.Featured image
+Featured image will show all thumbnail previews and list sections of the blog,
+
+Now to add the Featured image and Author of the blog on the right side.
+
+ 
+
+Add the image and author name,
+
+Note : An image size of 918px x 483px is ideal,
+
+ 
+
+
+If you want to save the blog for later purposes and do not wish to publish yet, click on the Save as draft button.
+
+ 
+
+
+
+ 
+Show the blog list page as a draft,
+
+
+ 
+
+
+5.Blog list (action page)
+
+You can also view and edit all your published and draft blogs under the blogs tab. To edit a blog, click on the blog's name to go to the blog editor. Here change the details that you want and click on Publish blog to save changes,
+
+ 
+
+
+Your blog in the draft, while clicking on the view button, shows the message “can not preview a draft blog”
+
+ 
+
+You have to change publish a blog, then click the view button your blog will display on the storefront,
+
+ 
+
+
+To delete a blog, click on the three dots button which is at the right against the name of the name, and click the Delete blog button.
+
+
+
+Blog displays on the storefront,
+
+Click the read now, and it will displays full view ,
+
+
+ 
+ 
+
+
+
+Bigcommerce 
+
+
+You have to click the side navbar click storefront, and then scroll back to click Blogs,
+
+ 
+
+Click blogs,
+
+ 
+
+For every new store has the default blog in “your first blog post”
+
+
+
+
+
+
+
+
+
+
+1.  Blog Visibility
+
+  
+ For every new store “your first blog post” blog is default,
+
+ 
+
+
+Every new store has the built-in blog visible by default,
+
+ 
+
+Note : If you are using a different blogging platform or don't want to use a blog, toggle the Blog Visibility to remove all blog links from your storefront's header and footer.
+
+2. Creating a Blog Post 
+Blog, click add button,
+
+ 
+
+
+Create a new blog page will appear,
+
+ 
+
+
+Give the post a Title, then add your content to the Body,
+
+
+3.Add title
+
+
+
+
+ 
+
+Then add content formatting like the body,
+
+4. Content formatting
+ Then add the content formatting section,
+
+ 
+
+
+●	Formatting
+●	Change font family
+●	Change font size
+●	Back color
+●	Font color
+●	Bold
+●	Italic
+●	Underline
+●	Deleted
+●	Alignment
+●	Outdent
+●	Indent
+●	Unordered list
+●	Ordered list
+●	Insert image
+●	Insert video
+●	Link
+●	Insert table
+●	Insert horizontal line
+●	Html
+
+Align the paragraph using formatting tools,
+
+ 
+
+Change the font family,
+ 
+
+Change the font size uniformly,
+
+ 
+
+Change the content back color,
+ 
+
+Change the font color using this tool,
+
+ 
+
+Edit bold and italic for the content,
+ 
+
+ 
+
+You have to change the underline,
+ 
+
+
+You have to deleted the content, using these tool,
+ 
+
+Alignment changes,
+ 
+
+Reduce the space using , indent and outdent tools
+The Indent and Outdent buttons are used to add and remove an amount of space at the beginning of a line of text,
+
+Using the formatting tool,ordered and unordered list,
+
+ 
+
+4) a. Insert image
+You have to upload image in your file,
+
+ 
+
+Choose image,
+
+ 
+
+ 
+
+You have to edit the upload images, when you select the image and click the edit button,
+
+ 
+
+You have to delete and edit the image,
+
+ 
+
+ 
+
+
+4) b. Insert video
+
+You have to insert video, copy the video embed code,
+
+ 
+
+Include the embed code, click the insert button,
+ 
+
+
+ 
+
+
+4) c. Insert Link
+
+You have to insert link using the tool,
+
+
+ 
+
+
+ 
+
+
+Edit url,
+
+ 
+
+Give email,
+
+ 
+
+
+Give anchor,
+
+   An anchor is a piece of text which marks the beginning and/or the end of a hypertext link.
+
+ 
+
+
+Add anchor click insert button,
+
+4) d. Insert table
+
+You have to insert table using these tools,
+
+ 
+
+
+Click insert table it will edit the table and give the count for rows and columns,
+
+ 
+
+
+Add the specification for the table,
+ 
+
+
+
+View and edit the HTML code,
+
+ 
+
+
+Displays the blog on storefront,
+
+ 
+5. Optional fields
+
+Under optional fields,
+Author,designates who wrote this particular blog post,Tags,used for categorizing similar blog posts
+
+Summary thumbnail image, displays a thumbnail image to be included in the blog post and summary
+
+blog,Publication date ->displays the blog published dates
+
+
+ 
+
+
+Change the publication date,
+
+
+ 
+
+
+Optional fields displays on the storefront,
+ 
+
+6.SEO fields
+
+Post URL — designates a specific URL for the post; by default, the URL is based off of the post's Title
+
+Meta description — specifies the description that will appear in the appropriate meta tag for this post
+
+ 
+
+redirect the url,
+ 
+
+
+7. Blog list actions:
+
+You have to listed in the blog list actions,
+
+ 
+
+ 
+
+You have to unpublish the blog, move the blog to draft,
+
+ 
+
+
+ 
+
+blog the draft you have to preview the blog,
+
+ 
+
+You have to publish the blog click publish, and your blog is moved to published side,
+
+ 
+
+Click edit, edit your blog post then update your changes,
+ 
+
+
+ 
+
+
+Then publish your post,
+
+ 
+
+
+You have to click the delete, your post will be deleted,
+
+ 
+8. Blog Settings
+     Click the Action menu to access the Blog Settings. Here you can update the blog's navigation title, URL, social settings and allow readers to post comments,
+
+
+
+8. a) Add the stores navigation
+
+Blog Title —>The name that will appear in your store's navigation. Keeping this short and simple is best,
+
+Blog Description —>The description that will appear in your store's navigation. Keeping this short and simple is best,
+
+Blog url-> You can enter a custom Blog URL if you'd like. By default, the URL is based off of the Blog Title,
+
+ 
+
+
+Blog displays on the storefront,
+
+ 
+
+8.  b) Social sharing
+
+     The share settings control the options your customers are provided with to share your blog posts across different social media sites, including Facebook, Twitter, and Pinterest. You can modify these by clicking the desired social media site in your store's Display settings. 
+
+ 
+
+
+click edit in store settings,
+
+ 
+
+
+For the store settings click share menu,
+
+ 
+
+It will shows share icon, click share icon,
+
+
+ 
+
+
+Click the  share icons and click the save button.
+
+Share icon displays on the storefront,
+
+ 
+
+8. c) comments
+
+Stores with Stencil themes can use Disqus for blog comments by following the instructions in Using Disqus with Stencil. If you are using a legacy Blueprint theme, see Blueprint Themes for more information.
+
+
+9. Linking to your blog
+Go to Storefront › Web Pages, then click Create a Web Page
+
+ 
+
+Create page appears, this Page Will, select Link to another website or document.
+
+ 
+
+
+Type in a Page Name and enter the URL of your blog into the Link field,
+
+ 
+
+
+. If you have on name it is “Today blog", you will need to change the title of the built-in blog to something else,
+ 
+
+blog displays on the storefront,
+
+ 
+
+
+Click today blog,
+
+ 
+
+
+
+
+
+Woocommerce 
+
+WordPress is essentially a blogging platform. WooCommerce is a plugin that turns this blogging platform into a powerful online store. Thus, chances are you might already have a blog and are just unaware of its existence.
+
+
+1. Dashboard
+
+ 
+
+
+    Go to your Admin Dashboard and navigate to Posts > All Posts. here click on the Add New button to start adding a new post, alternatively, from the WP Admin Dashboard, 
+you can go to Posts > Add New to create a new post,
+
+ 
+
+
+and click all posts, there will be listed in the default blog post “Hello world”
+
+
+
+
+2. Add new blog post
+
+
+ 
+
+
+
+click add new button,
+
+ 
+
+
+You will be taken to a new page where you can write your new post,
+
+ 
+
+
+Add title
+
+ 
+
+ you will have a block for the title,
+
+
+You have to edit the permalink,
+
+ 
+
+
+3. Content formatting
+
+ And another block to add the post content. Writing and media tools are provided in the toolbar inside the content box. Everything you write inside this box will constitute the content of your blog post. Within the classic editor, you can add text, links, images, videos, code, shortcodes, etc.
+
+ 
+
+
+●	Bold
+●	Italic
+●	Font family
+●	Ordered list
+●	Unordered list
+●	Blockquote
+●	Insert link
+●	Alignment
+
+ 
+
+4. Add categories to your posts
+
+Click add new categories,
+
+ 
+
+Add a new category for “ promotions”
+
+ 
+
+
+
+ 
+
+
+
+For the storefront it will display the name for promotion under the display of the blog posts
+5. Publish 
+
+ 
+
+
+Your blog post status as draft edit and save the changes to publish otherwise you view in preview, visibility in your blog public, private or password protected, for publish immediately  you to set the date to publish the post
+
+Or You have to move to trash the blog
+
+ 
+
+Publish immediately,
+
+ 
+6. Tags
+
+Add tags, click add button
+
+ 
+
+
+
+Click publish button,
+
+ 
+
+
+Click view post,
+
+
+ 
+
+
+Display on the storefront,
+
+ 
+
+7. Featured image
+Add a featured image,
+
+ 
+
+
+ 
+
+Remove and replace the image options
+
+8. Default Posts Page
+
+Go to your WP Admin Dashboard, and navigate to Settings > Reading. Here, set the Homepage display setting to A Static page. The two drop-down menus will appear.
+
+Now keep the Homepage as Home, And set Blog as your posts page
+
+
+ 
+
+
+
+Now your Blog page is your default post page. Any previous and new posts will be published on the Blog page,
+
+9. Add a menu for the blog page
+
+              To add a menu entry for the Blog page, go to your WP Admin Dashboard and navigate to Appearance > Menus. Inside the Add Menus section, go to the Pages sub-section, and click on View All. Checkmark the Blog page and click on Add to Menu to add a menu entry,
+
+
+ 
+
+
+
+Blog displays on the storefront,
+ 
+ 
+
+ 
+   Ecwid 
+        In Ecwid, you can create a mini-blog with the help of category descriptions. You have probably already tried categories — and, maybe, even subcategories — in your store
+
+1.Adding a blog 
+
+Ecwid control panel,
+
+ 
+
+
+
+
+
+You have to create a blog, go navigate to Catalog → Categories,
+
+
+ 
+
+
+2.Add Root category
+Click the add Root Category button. You will see the New root category page
+
+
+ 
+
+
+ 
+
+
+2. a) Add blog title
+
+In the Name field, enter the name that you prefer for your blog section,
+
+ 
+
+
+2. b) Availability
+For the root category section, in default availability status is enabled for your blog and will be displayed on the store
+
+While diable for your blog will not be displayed on the store
+
+ 
+
+
+3 . b)category image
+
+In the Category Image field, click Choose file to upload an image that will be the cover of your blog,
+
+If you don’t upload an image, your category will have a default gradient image for a cover
+
+ 
+
+choose a file to upload an image,
+
+ 
+
+
+Click the delete button, you have to change and update the image
+
+3. Content formatting 
+In the Description field, write a short description for your blog. It will become visible when someone enters the blog category,
+
+●	Formatting
+●	Bold
+●	Italic
+●	Underline
+●	Deleted
+●	Insert image
+●	Insert video
+●	Insert link
+●	Insert table
+●	Font color
+●	Back color
+●	Change font size
+●	Change font family
+●	Alignment
+●	Insert horizontal rule
+●	Unordered list
+●	Ordered list
+●	Outdent
+●	indent
+
+Formatting,
+
+ 
+Change font colour
+ 
+
+Change back color
+ 
+
+Change font size,
+ 
+
+Change font family,
+
+ 
+
+Change the alignment,
+ 
+
+Insert horizontal line,
+
+ 
+
+
+3. a) Insert image
+ When uploading an image, click choose a file to upload image
+ 
+
+ 
+
+
+3. b) Insert video
+    Insert Video Embed Code or Youtube/Vimeo Link and then click insert button
+
+ 
+
+
+ 
+
+3. c) Insert link
+
+while inserting a link, or clicking open in a new tab 
+ 
+
+
+ 
+
+
+3.e) Insert table
+When inserting a table, 
+
+ 
+
+ 
+
+
+ 
+
+
+Click save button,
+
+ 
+
+
+
+
+Blogs displays on the storefront,
+ 
+
+Click “best perfumes for women” blogs,
+  this section will look like one of the store categories (and it will also be listed in the menu)
+
+ 
+
+ 
+
+4. category products:
+Click Category Products then Assign Products to Category to choose products to be displayed at the bottom of your post
+
+ 
+
+Click assign products to Category,
+ 
+
+Choose selected products, click add products the products will be listed,
+
+ 
+
+
+when click the remove all button, the products will be removed, and also create a new product then will be created and map the category products
+
+Category products will be displayed on the storefront,
+
+ 
+
+
+
+4. a) Add a subcategory
+
+When you add a new subcategory to a category, by default, it appears at the end of the list. To arrange your blog posts in chronological order, you will need to change their order manually.
+
+ 
+
+Give the subcategory details, and click save button,
+ 
+
+
+Subcategory displays on the storefront,
+
+ 
+ 
+
+ 
+
+Drag and drop items to sort  blog categories, in bracket assign products category count in the brackets
+
+
+
+
